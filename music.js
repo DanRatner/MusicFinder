@@ -1,12 +1,3 @@
-/*
-    Daniel Ratner
-    danielratner@my.smccd.edu
-    CIS 114 OL
-    music.js
-    Final
-    21 May 2020
-*/
-
 "use strict";
 $(document).ready(function(){
     $("#submit").click(function() {
